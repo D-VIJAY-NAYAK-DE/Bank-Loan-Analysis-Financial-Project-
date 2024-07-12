@@ -12,6 +12,7 @@ overall cost. <br>
 (MoM) fluctuations. <br>
 
 Good Loan vs Bad Loan KPI’s: <br>
+
 Good Loan: <br>
 1. Good Loan Application Percentage <br>
 2. Good Loan Applications <br>
@@ -25,6 +26,7 @@ Bad Loan <br>
 4. Bad Loan Total Received Amount <br>
 
 Loan Status Grid View: <br>
+
 To gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to 
 create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such as 'Total Loan 
 Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD 
@@ -43,8 +45,7 @@ Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Tota
 
 DASHBOARD 3: DETAILS <br>
 GRID <br>
-Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to oƯer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information eƯiciently. <br>
+Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information eƯiciently. <br>
 
 Objective: <br>
-The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan 
-portfolio, borrower profiles, and loan performance. <br>
+The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance. <br>
