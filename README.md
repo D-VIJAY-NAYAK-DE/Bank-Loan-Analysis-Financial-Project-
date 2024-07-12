@@ -10,6 +10,7 @@ Received and observe the Month-over-Month (MoM) changes. <br>
 overall cost. <br>
 5. Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month 
 (MoM) fluctuations. <br>
+
 Good Loan vs Bad Loan KPI’s: <br>
 Good Loan: <br>
 1. Good Loan Application Percentage <br>
@@ -27,6 +28,7 @@ create a grid view report categorized by 'Loan Status.’ By providing insights 
 Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD 
 Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower 
 us to make data-driven decisions and assess the health of our loan portfolio. <br>
+
 DASHBOARD 2: OVERVIEW <br>
 CHARTS: <br>
 1. Monthly Trends by Issue Date (Line Chart): To identify seasonality and long-term trends in lending activities. <br>
@@ -37,6 +39,7 @@ applications. <br>
 5. Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing. <br>
 6. Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements. <br>
 Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received’. <br>
+
 DASHBOARD 3: DETAILS <br>
 GRID <br>
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to oƯer a holistic snapshot of key loan-related 
